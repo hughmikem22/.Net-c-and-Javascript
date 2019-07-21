@@ -1,0 +1,11 @@
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\bin\Debug\netcoreapp2.1\La Frutas.deps.json
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\bin\Debug\netcoreapp2.1\La Frutas.runtimeconfig.json
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\bin\Debug\netcoreapp2.1\La Frutas.runtimeconfig.dev.json
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\bin\Debug\netcoreapp2.1\La Frutas.dll
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\bin\Debug\netcoreapp2.1\La Frutas.pdb
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\obj\Debug\netcoreapp2.1\La Frutas.csprojAssemblyReference.cache
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\obj\Debug\netcoreapp2.1\La Frutas.csproj.CoreCompileInputs.cache
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\obj\Debug\netcoreapp2.1\La Frutas.AssemblyInfoInputs.cache
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\obj\Debug\netcoreapp2.1\La Frutas.AssemblyInfo.cs
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\obj\Debug\netcoreapp2.1\La Frutas.dll
+C:\Users\Hugh McNeil\source\repos\La Frutas\La Frutas\obj\Debug\netcoreapp2.1\La Frutas.pdb
